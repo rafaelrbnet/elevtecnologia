@@ -11,6 +11,6 @@ https://elevtecnologia.com.br/
 
 
 # Vagas disponíveis  
-* [IA](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_ia)
-* [Sustentação](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_integrcoes)
-* [Evolução/Integrações](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_sustentacao)
+* [IA](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_ia.md)
+* [Sustentação](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_integrcoes.md)
+* [Evolução/Integrações](https://github.com/rafaelrbnet/elevtecnologia/blob/master/vaga_sustentacao.md)
