@@ -8,7 +8,7 @@ https://elevtecnologia.com.br/
 
 ---
 # Descritivo Resumido da Vaga
-O profissional irá fazer parte de uma equipe de programação interna que constrói novos produtos e também mantém as plataformas já existentes sempre voltadas para processos de Telefonia e Atendimento
+O profissional irá fazer parte de uma equipe de programação interna que constrói novos produtos via REST / RESTful APIs e também mantém as plataformas já existentes sempre voltadas para processos de Telefonia e Atendimento
 
 # Informações Gerais
 * Cargo	: Programador de Sistemas Pleno
