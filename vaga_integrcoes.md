@@ -38,7 +38,7 @@ O profissional irá fazer parte de uma equipe de programação interna que const
 # Características Técnicas (Profissionais)
 * Experiência com produtos digitais comprovada em portfólio;
 * Conhecimentos, Habilidades e Experiências que são desejadas como Front-end
-... Java Script / Jquery
+⋅⋅* Java Script / Jquery
 ... VueJS
 ... AngularJS
 ... React
