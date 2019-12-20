@@ -34,22 +34,13 @@ O profissional irá fazer parte de uma equipe de programação interna que const
 * Organizado
 * Capacidade de análise sintética de informações
 * Auxiliar nos testes de interfaces gráficas (FrontEnd) de sites e aplicações da empresa, sugerindo melhorias e participando ativamente dos processos criativos de UX e UI.
+* Ter conceitos de organização de projetos e atividades em SCRUM e kanban
 
 # Características Técnicas (Profissionais)
 * Experiência com produtos digitais comprovada em portfólio;
-* Conhecimentos, Habilidades e Experiências que são desejadas como Front-end
-⋅⋅* Java Script / Jquery
-... VueJS
-... AngularJS
-... React
-... CSS
-... BootStrap
+* Conhecimentos, Habilidades e Experiências que são desejadas como Front-end: Java Script / Jquery, VueJS, AngularJS, React, CSS, BootStrap.
+*	Conhecimentos e Habilitadas que serão tratadas como Diferenciais: Experiência com páginas SPA, Git, Laravel, Docker, CentOS 
 
-*	Conhecimentos e Habilitadas que serão tratadas como Diferenciais
-**	Experiência com páginas SPA
-** Git
-** 	Laravel
-** 	Docker
-** 	CentOS 
+# Desafio
 
 
