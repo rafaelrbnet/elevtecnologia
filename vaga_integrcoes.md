@@ -7,16 +7,13 @@ Processos Seletivos para equipe de desenvolvimento Elev Tecnologia
 https://elevtecnologia.com.br/  
 
 ---
-
-# Informações Gerais
-* Equipe/Coordenação	: Desenvolvimento
-* Cargo	: Programador de Sistemas Pleno
-* Horário de Trabalho	: Das 9h às 18h, com 1h de Almoço
-* Local de Trabalho	: Centro de SP
-
 # Descritivo Resumido da Vaga
 O profissional irá fazer parte de uma equipe de programação interna que constrói novos produtos e também mantém as plataformas já existentes sempre voltadas para processos de Telefonia e Atendimento
 
+# Informações Gerais
+* Cargo	: Programador de Sistemas Pleno
+* Horário de Trabalho	: Das 9h às 18h, com 1h de Almoço
+* Local de Trabalho	: Centro de SP
 
 # Dados Pessoais
 * Idade: Entre 20 e 35 anos
