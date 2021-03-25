@@ -13,7 +13,7 @@ O profissional irá fazer parte de uma equipe de programação interna que const
 # Informações Gerais
 * Cargo	: Programador de Sistemas Pleno
 * Horário de Trabalho	: Das 9h às 18h, com 1h de Almoço
-* Local de Trabalho	: Centro de SP
+* Local de Trabalho	: Remoto em pandemia, após a pandemia Centro de SP
 
 # Dados Pessoais
 * Idade: Entre 20 e 35 anos
@@ -39,5 +39,6 @@ O profissional irá fazer parte de uma equipe de programação interna que const
 *	Conhecimentos e Habilitadas que serão tratadas como Diferenciais: Experiência com páginas SPA, Git, Laravel, Docker, CentOS 
 
 # Desafio
-
+1- CRUD PHP ORIENTADO A OBJETOS
+2- Call API REST (qualquer uma de emplo)
 
