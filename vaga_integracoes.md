@@ -39,6 +39,6 @@ O profissional irá fazer parte de uma equipe de programação interna que const
 *	Conhecimentos e Habilitadas que serão tratadas como Diferenciais: Experiência com páginas SPA, Git, Laravel, Docker, CentOS 
 
 # Desafio
-1- CRUD PHP ORIENTADO A OBJETOS
-2- Call API REST (qualquer uma de emplo)
+1- CRUD PHP ORIENTADO A OBJETOS  
+2- Call API REST (qualquer uma)
 
